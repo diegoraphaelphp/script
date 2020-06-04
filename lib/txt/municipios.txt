@@ -1,0 +1,185 @@
+00001 2600104 Afogados da Ingazeira                                                                                                                                  00008 A 00007
+00002 2600203 Afrânio                                                                                                                                                00011 A 00012
+00003 2600302 Agrestina                                                                                                                                              00015 A 00008
+00004 2600401 Água Preta                                                                                                                                             00003 A 00011
+00005 2600500 Águas Belas                                                                                                                                            00006 A 00006
+00006 2600609 Alagoinha                                                                                                                                              00015 A 00004
+00007 2600708 Aliança                                                                                                                                                00002 A 00010
+00008 2600807 Altinho                                                                                                                                                00015 A 00008
+00009 2600906 Amaraji                                                                                                                                                00003 A 00011
+00010 2601003 Angelim                                                                                                                                                00006 A 00006
+00011 2601052 Araçoiaba                                                                                                                                              00001 A 00010
+00012 2601102 Araripina                                                                                                                                              00010 A 00005
+00013 2601201 Arcoverde                                                                                                                                              00007 A 00004
+00014 2601300 Barra de Guabiraba                                                                                                                                     00015 A 00008
+00015 2601409 Barreiros                                                                                                                                              00003 A 00011
+00016 2601508 Belém de Maria                                                                                                                                         00003 A 00011
+00017 2601607 Belém de São Francisco                                                                                                                                 00012 A 00003
+00018 2601706 Belo Jardim                                                                                                                                            00015 A 00002
+00019 2601805 Betânia                                                                                                                                                00007 A 00001
+00020 2601904 Bezerros                                                                                                                                               00015 A 00008
+00021 2602001 Bodocó                                                                                                                                                 00010 A 00005
+00022 2602100 Bom Conselho                                                                                                                                           00006 A 00006
+00023 2602209 Bom Jardim                                                                                                                                             00004 A 00009
+00024 2602308 Bonito                                                                                                                                                 00015 A 00008
+00025 2602407 Brejão                                                                                                                                                 00006 A 00006
+00026 2602506 Brejinho                                                                                                                                               00008 A 00007
+00027 2602605 Brejo da Madre de Deus                                                                                                                                 00015 A 00008
+00028 2602704 Buenos Aires                                                                                                                                           00002 A 00010
+00029 2602803 Buíque                                                                                                                                                 00006 A 00004
+00030 2602902 Cabo de Santo Agostinho                                                                                                                                00001 A 00011
+00031 2603009 Cabrobó                                                                                                                                                00011 A 00003
+00032 2603108 Cachoeirinha                                                                                                                                           00015 A 00002
+00033 2603207 Caetés                                                                                                                                                 00006 A 00006
+00034 2603306 Calçado                                                                                                                                                00006 A 00002
+00035 2603405 Calumbi                                                                                                                                                00008 A 00001
+00036 2603454 Camaragibe                                                                                                                                             00001 A 00010
+00037 2603504 Camocim de São Félix                                                                                                                                   00015 A 00008
+00038 2603603 Camutanga                                                                                                                                              00002 A 00010
+00039 2603702 Canhotinho                                                                                                                                             00006 A 00002
+00040 2603801 Capoeiras                                                                                                                                              00006 A 00006
+00041 2603900 Carnaíba                                                                                                                                               00008 A 00007
+00042 2603926 Carnaubeira da Penha                                                                                                                                   00012 A 00003
+00043 2604007 Carpina                                                                                                                                                00002 A 00010
+00044 2604106 Caruaru                                                                                                                                                00015 A 00008
+00045 2604155 Casinhas                                                                                                                                               00004 A 00009
+00046 2604205 Catende                                                                                                                                                00003 A 00011
+00047 2604304 Cedro                                                                                                                                                  00009 A 00003
+00048 2604403 Chã de Alegria                                                                                                                                         00002 A 00010
+00049 2604502 Chã Grande                                                                                                                                             00003 A 00008
+00050 2604601 Condado                                                                                                                                                00002 A 00010
+00051 2604700 Correntes                                                                                                                                              00006 A 00006
+00052 2604809 Cortês                                                                                                                                                 00003 A 00011
+00053 2604908 Cumaru                                                                                                                                                 00004 A 00009
+00054 2605004 Cupira                                                                                                                                                 00015 A 00002
+00055 2605103 Custódia                                                                                                                                               00007 A 00001
+00056 2605152 Dormentes                                                                                                                                              00011 A 00012
+00057 2605202 Escada                                                                                                                                                 00003 A 00011
+00058 2605301 Exu                                                                                                                                                    00010 A 00005
+00059 2605400 Feira Nova                                                                                                                                             00004 A 00009
+00060 2605459 Fernando de Noronha                                                                                                                                    00001 I 00013
+00061 2605509 Ferreiros                                                                                                                                              00002 A 00010
+00062 2605608 Flores                                                                                                                                                 00008 A 00007
+00063 2605707 Floresta                                                                                                                                               00012 A 00001
+00064 2605806 Frei Miguelinho                                                                                                                                        00004 A 00009
+00065 2605905 Gameleira                                                                                                                                              00003 A 00011
+00066 2606002 Garanhuns                                                                                                                                              00006 A 00006
+00067 2606101 Glória do Goitá                                                                                                                                        00002 A 00009
+00068 2606200 Goiana                                                                                                                                                 00002 A 00010
+00069 2606309 Granito                                                                                                                                                00010 A 00005
+00070 2606408 Gravatá                                                                                                                                                00015 A 00008
+00071 2606507 Iati                                                                                                                                                   00006 A 00006
+00072 2606606 Ibimirim                                                                                                                                               00007 A 00004
+00073 2606705 Ibirajuba                                                                                                                                              00015 A 00002
+00074 2606804 Igarassu                                                                                                                                               00001 A 00010
+00075 2606903 Iguaraci                                                                                                                                               00008 A 00007
+00076 2607000 Inajá                                                                                                                                                  00007 A 00004
+00077 2607109 Ingazeira                                                                                                                                              00008 A 00007
+00078 2607208 Ipojuca                                                                                                                                                00001 A 00011
+00079 2607307 Ipubi                                                                                                                                                  00010 A 00005
+00080 2607406 Itacuruba                                                                                                                                              00012 A 00001
+00081 2607505 Itaíba                                                                                                                                                 00006 A 00006
+00082 2607604 Itamaracá                                                                                                                                              00001 A 00010
+00083 2607653 Itambé                                                                                                                                                 00002 A 00010
+00084 2607703 Itapetim                                                                                                                                               00008 A 00007
+00085 2607752 Itapissuma                                                                                                                                             00001 A 00010
+00086 2607802 Itaquitinga                                                                                                                                            00002 A 00010
+00087 2607901 Jaboatão dos Guararapes                                                                                                                                00001 A 00010
+00088 2607950 Jaqueira                                                                                                                                               00003 A 00011
+00089 2608008 Jataúba                                                                                                                                                00015 A 00008
+00090 2608057 Jatobá                                                                                                                                                 00012 A 00001
+00091 2608107 João Alfredo                                                                                                                                           00004 A 00009
+00092 2608206 Joaquim Nabuco                                                                                                                                         00003 A 00011
+00093 2608255 Jucati                                                                                                                                                 00006 A 00002
+00094 2608305 Jupi                                                                                                                                                   00006 A 00002
+00095 2608404 Jurema                                                                                                                                                 00006 A 00002
+00096 2608453 Lagoa do Carro                                                                                                                                         00002 A 00010
+00097 2608503 Lagoa do Itaenga                                                                                                                                       00002 A 00010
+00098 2608602 Lagoa do Ouro                                                                                                                                          00006 A 00006
+00099 2608701 Lagoa dos Gatos                                                                                                                                        00015 A 00002
+00100 2608750 Lagoa Grande                                                                                                                                           00011 A 00012
+00101 2608800 Lajedo                                                                                                                                                 00006 A 00002
+00102 2608909 Limoeiro                                                                                                                                               00004 A 00009
+00103 2609006 Macaparana                                                                                                                                             00002 A 00010
+00104 2609105 Machados                                                                                                                                               00004 A 00009
+00105 2609154 Manari                                                                                                                                                 00007 A 00004
+00106 2609204 Maraial                                                                                                                                                00003 A 00011
+00107 2609303 Mirandiba                                                                                                                                              00009 A 00003
+00108 2614303 Moreilândia                                                                                                                                            00010 A 00005
+00109 2609402 Moreno                                                                                                                                                 00001 A 00010
+00110 2609501 Nazaré da Mata                                                                                                                                         00002 A 00010
+00111 2609600 Olinda                                                                                                                                                 00001 A 00013
+00112 2609709 Orobó                                                                                                                                                  00004 A 00009
+00113 2609808 Orocó                                                                                                                                                  00011 A 00012
+00114 2609907 Ouricuri                                                                                                                                               00010 A 00005
+00115 2610004 Palmares                                                                                                                                               00003 A 00011
+00116 2610103 Palmeirina                                                                                                                                             00006 A 00006
+00117 2610202 Panelas                                                                                                                                                00015 A 00002
+00118 2610301 Paranatama                                                                                                                                             00006 A 00006
+00119 2610400 Parnamirim                                                                                                                                             00009 A 00003
+00120 2610509 Passira                                                                                                                                                00004 A 00009
+00121 2610608 Paudalho                                                                                                                                               00002 A 00010
+00122 2610707 Paulista                                                                                                                                               00002 A 00010
+00123 2610806 Pedra                                                                                                                                                  00006 A 00004
+00124 2610905 Pesqueira                                                                                                                                              00015 A 00004
+00125 2610002 Petrolândia                                                                                                                                            00012 A 00001
+00126 2611101 Petrolina                                                                                                                                              00011 A 00012
+00127 2611200 Poção                                                                                                                                                  00015 A 00004
+00128 2611309 Pombos                                                                                                                                                 00003 A 00008
+00129 2611408 Primavera                                                                                                                                              00003 A 00011
+00130 2611507 Quipapá                                                                                                                                                00003 A 00002
+00131 2611533 Quixaba                                                                                                                                                00008 A 00007
+00132 2611606 Recife                                                                                                                                                 00001 A 00013
+00133 2611705 Riacho das Almas                                                                                                                                       00015 A 00008
+00134 2611804 Ribeirão                                                                                                                                               00003 A 00011
+00135 2611903 Rio Formoso                                                                                                                                            00003 A 00011
+00136 2612000 Sairé                                                                                                                                                  00015 A 00008
+00137 2612109 Salgadinho                                                                                                                                             00004 A 00009
+00138 2612208 Salgueiro                                                                                                                                              00009 A 00003
+00139 2612307 Saloá                                                                                                                                                  00006 A 00006
+00140 2612406 Sanharó                                                                                                                                                00015 A 00002
+00141 2612455 Santa Cruz                                                                                                                                             00010 A 00005
+00142 2612471 Santa Cruz da B. Verde                                                                                                                                 00008 A 00001
+00143 2612505 Santa Cruz do Capibaribe                                                                                                                               00004 A 00008
+00144 2612554 Santa Filomena                                                                                                                                         00010 A 00005
+00145 2612604 Santa Maria da Boa Vista                                                                                                                               00011 A 00012
+00146 2612703 Santa Maria do Cambucá                                                                                                                                 00004 A 00009
+00147 2612802 Santa Terezinha                                                                                                                                        00008 A 00007
+00148 2612901 São Benedito do Sul                                                                                                                                    00003 A 00002
+00149 2613008 São Bento do Una                                                                                                                                       00015 A 00002
+00150 2613107 São Caetano                                                                                                                                            00015 A 00008
+00151 2613206 São João                                                                                                                                               00006 A 00006
+00152 2613305 São Joaquim do Monte                                                                                                                                   00015 A 00008
+00153 2613404 São José da C. Grande                                                                                                                                  00003 A 00011
+00154 2613503 São José do Belmonte                                                                                                                                   00009 A 00003
+00155 2613602 São José do Egito                                                                                                                                      00008 A 00007
+00156 2613701 São Lourenço da Mata                                                                                                                                   00001 A 00010
+00157 2613800 São Vicente Ferrer                                                                                                                                     00004 A 00009
+00158 2613909 Serra Talhada                                                                                                                                          00008 A 00001
+00159 2614006 Serrita                                                                                                                                                00009 A 00003
+00160 2614105 Sertânia                                                                                                                                               00007 A 00004
+00161 2614204 Sirinhaém                                                                                                                                              00003 A 00011
+00162 2614402 Solidão                                                                                                                                                00008 A 00007
+00163 2614501 Surubim                                                                                                                                                00004 A 00009
+00164 2614600 Tabira                                                                                                                                                 00008 A 00007
+00165 2614600 Tacaimbó                                                                                                                                               00015 A 00008
+00166 2614808 Tacaratu                                                                                                                                               00012 A 00001
+00167 2614857 Tamandaré                                                                                                                                              00003 A 00011
+00168 2615003 Taquaritinga do Norte                                                                                                                                  00004 A 00009
+00169 2615102 Terezinha                                                                                                                                              00006 A 00006
+00170 2615201 Terra Nova                                                                                                                                             00009 A 00003
+00171 2615300 Timbaúba                                                                                                                                               00002 A 00010
+00172 2615409 Toritama                                                                                                                                               00004 A 00008
+00173 2615508 Tracunhaém                                                                                                                                             00002 A 00010
+00174 2615607 Trindade                                                                                                                                               00010 A 00005
+00175 2615706 Triunfo                                                                                                                                                00008 A 00001
+00176 2615805 Tupanatinga                                                                                                                                            00006 A 00004
+00177 2615904 Tuparetama                                                                                                                                             00008 A 00007
+00178 2616001 Venturosa                                                                                                                                              00006 A 00004
+00179 2616100 Verdejante                                                                                                                                             00009 A 00003
+00180 2616183 Vertente do Lério                                                                                                                                      00004 A 00009
+00181 2616209 Vertentes                                                                                                                                              00004 A 00009
+00182 2616308 Vicência                                                                                                                                               00002 A 00010
+00183 2616407 Vitória de Santo Antão                                                                                                                                 00003 A 00008
+00184 2616506 Xexéu                                                                                                                                                  00003 A 00011
+00185 2600054 Abreu e Lima                                                                                                                                           00001 A 00010

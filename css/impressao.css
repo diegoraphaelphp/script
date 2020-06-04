@@ -1,0 +1,62 @@
+.fontText {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	color:#000066;
+	font-style:normal;
+	text-decoration:none;
+}
+
+.fontText2 {
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	font-weight:normal;
+	color:#000066;
+	font-style:normal;
+	text-decoration:none;
+}
+
+.titulo_ok4 { 
+	background-color: #78B0F4; 
+	background-repeat: repeat-x; 
+	border-color: #406080; 
+	border-style: solid; 
+	border-width: 0px 0px 0px; 
+	color: #000000; 
+	font-family: Verdana, Arial, sans-serif; 
+	font-size: 11px; 
+	padding: 2px 5px 2px; 
+}
+
+.titulo_ok5 { 
+	background-color: #66CC66; 
+	border-color: #406080; 
+	border-style: solid; 
+	border-width: 0px; 
+	color: #000000; 
+	font-family: Tahoma, Arial, sans-serif; 
+	font-size: 11px; 
+	padding: 2px 5px 2px; 
+}
+
+.titulo_ok6 { 
+	background-color: #BBD9FD; 
+	border-color: #406080; 
+	border-style: solid; 
+	border-width: 0px; 
+	color: #000066; 
+	font-family: Tahoma, Arial, sans-serif; 
+	font-size: 11px; 
+	font-weight:bold;
+	padding: 2px 5px 2px; 
+}
+
+.menuTitle{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-style:normal;
+	font-weight:bold;
+	font-variant:normal;
+	color:#000066;
+	text-decoration: none;
+}

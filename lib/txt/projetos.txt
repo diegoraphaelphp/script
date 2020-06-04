@@ -1,0 +1,53 @@
+00001 0001 - PROJETO SEMENTES:DISTRIBUIÇÃO                                                                                                                   S A
+00002 0002 - PROJETO AGRICULTURA DE SEQUEIRO                                                                                                                 N A
+00003 0003 - PROJETO DE APOIO ÀS ORGANIZAÇÕES SOCIAIS LOCAIS                                                                                                 N A
+00004 0004 - PROJETO PALMA FORRAGEIRA                                                                                                                        N A
+00005 0005 - PROJETO CADEIA PRODUTIVA DA BOVINOCULTURA DE LEITE                                                                                              N A
+00006 0006 - PROJETO CADEIA PRODUTIVA DA BOVINOCULTURA DE CORTE                                                                                              N A
+00007 0007 - PROJETO AGROECOLOGIA                                                                                                                            N A
+00008 0008 - PROJETO QUALIFICAÇÃO DO CRÉDITO RURAL                                                                                                           N A
+00009 0009 - PROJETO AGROENERGIA                                                                                                                             N A
+00010 0010 - PROJETO IRRIGAÇÃO                                                                                                                               N A
+00011 0011 - PROJETO FRUTICULTURA                                                                                                                            N A
+00012 0012 - PROJETO OLERICULTURA                                                                                                                            N A
+00013 0013 - PROJETO CADEIA PRODUTIVA DA CAPRINOCULTURA                                                                                                      N A
+00014 0014 - PROJETO CADEIA PRODUTIVA DA OVINOCULTURA                                                                                                        N A
+00015 0015 - PROJETO APOIO ÀS ATIVIDADES NÃO-AGRÍCOLAS FAMILIARES:TURISMO RURAL E ARTESANATO                                                                 N A
+00016 0016 - PROJETO DE APOIO À PRODUÇÃO DE PEQUENOS ANIMAIS                                                                                                 N A
+00017 0017 - PROJETO DE APOIO À PISCICULTURA/AQUICULTURA                                                                                                     N A
+00018 0018 - PROJETO DE APOIO À GESTÃO DE OBRAS HÍDRICAS                                                                                                     N A
+00019 0019 - PROJETO DE APOIO À COMERCIALIZAÇÃO DA AGRICULTURA FAMILIAR                                                                                      N A
+00020 0020 - PROJETO TERRA PRONTA                                                                                                                            S A
+00021 0021 - PROGRAMA PERNAMBUCO ESCOLARIZADO                                                                                                                N A
+00022 0022 - REVITALIZAÇÃO SUSTENTÁVEL DA CULTURA DA MANDIOCA                                                                                                N A
+00023 0023 - PROGRAMA DE ASSISTÊNCIA TÉCNICA EM ASSENTAMENTOS                                                                                                N A
+00024 0024 - PROGRAMA DE REVITALIZAÇÃO DE SUB-BACIAS DO SÃO FRANCISCO                                                                                        N A
+00025 0025 - PROJETO PRODUTOS E MERCADOS DIFERENCIADOS                                                                                                       N A
+00026 0026 - PROJETO PRODUTOS ORGÂNICOS                                                                                                                      N A
+00027 0027 - PROJETO RAÍZES E TUBÉRCULOS                                                                                                                     N A
+00028 0028 - PROGRAMA MÃE CORUJA                                                                                                                             N A
+00029 0029 - PROJETO DE EDUCAÇÃO PROFISSIONAL (CAPACITAÇÃO)                                                                                                  N A
+00031 0031 - PROJETO DE APOIO À AGROINDÚSTRIA FAMILIAR RURAL                                                                                                 N A
+00032 0032 - PROJETO PRODUTOS FITOTERÁPICOS                                                                                                                  N A
+00033 0033 - PROJETO PRODUTOS DA SOCIOBIODIVERSIDADE                                                                                                         N A
+00038 0038 - METODOLOGIAS DE ATER EM CHAMADAS PÚBLICAS                                                                                                       N A
+00039 PROJETO AGRICULTURA DE SEQUEIRO                                                                                                                        N A
+00040 PROJETO AGRICULTURA IRRIGADA                                                                                                                           N A
+00041 PROJETO AGRICULTURA ORGÂNICA                                                                                                                           N A
+00042 PROJETO BOVINOCULTURA DE LEITE                                                                                                                         N A
+00043 PROJETO BOVINOCULTURA DE CORTE                                                                                                                         N A
+00044 PROJETO CAPRINOCULTURA DE LEITE                                                                                                                        N A
+00045 PROJETO CAPRINOCULTURA DE CORTE                                                                                                                        N A
+00046 PROJETO OVINOCULTURA                                                                                                                                   N A
+00047 PROJETO ANIMAIS DE PEQUENO E MÉDIO PORTE                                                                                                               N A
+00048 PROJETO OUTRAS AÇÕES                                                                                                                                   N A
+00049 PROJETO METODOLOGIA                                                                                                                                    N A
+00050 PROJETO QUALIFICAÇÃO DO CRÉDITO RURAL                                                                                                                  N A
+00051 PROJETO ESPECIAL - DISTRIBUIÇÃO DE SEMENTES                                                                                                            S A
+00052 PROJETO ESPECIAL - TERRA PRONTA                                                                                                                        S A
+00053 PROJETO ESPECIAL - COMERCIALIZAÇÃO PAA E PNAE                                                                                                          S A
+00054 PROJETO ESPECIAL - CHAMADAS PÚBLICAS                                                                                                                   S A
+00055 PROJETO ESPECIAL - MÃE CORUJA                                                                                                                          S A
+00056 PROJETO COMERCIALIZAÇÃO                                                                                                                                N A
+00057 PROJETO CRÉDITO RURAL                                                                                                                                  S A
+00058 PROJETO CRÉDITO RURAL - ASSENTAMENTO                                                                                                                   N A

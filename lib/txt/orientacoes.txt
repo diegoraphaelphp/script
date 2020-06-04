@@ -1,0 +1,247 @@
+00000 0                                                                                                                                                      A
+00001 FORMAÇÃO DE BANCO DE SEMENTES                                                                                                                          A
+00002 PLANTIO CORRETO                                                                                                                                        A
+00003 TESTE DE GERMINAÇÃO                                                                                                                                    A
+00004 VESPAÇAMENTO                                                                                                                                           A
+00005 UTILIZAÇÃO DE SEMENTES SELECIONADAS                                                                                                                    A
+00006 ESCOLHA DA ÁREA                                                                                                                                        A
+00007 PREPARO DO SOLO                                                                                                                                        A
+00008 PLANTIO EM NIVEL                                                                                                                                       A
+00009 IVEL                                                                                                                                                   A
+00010 CAPINAS                                                                                                                                                A
+00011 COMBATE A PRAGAS                                                                                                                                       A
+00012 CONTROLE DE DOENÇAS                                                                                                                                    A
+00013 PREPARO DE DEFENSIVOS ALTERNATIVOS                                                                                                                     A
+00014 ADUBAÇÃO ORGÂNICA                                                                                                                                      A
+00015 ADUBAÇÃO QUÍMICA                                                                                                                                       A
+00016 ARMAZENAMENTO                                                                                                                                          A
+00017 COMERCIALIZAÇÃO                                                                                                                                        A
+00018 PRÁTICAS DE CONSERVAÇÃO DO SOLO                                                                                                                        A
+00019 ASSOCIATIVISMO/COOPERATIVISMO (OBJETIVOS)                                                                                                              A
+00020 SAUDE E HIGIENE NAS RESIDÊNCIAS                                                                                                                        A
+00021 ORGANIZAÇÃO DE EVENTOS E COMEMORAÇÕES                                                                                                                  A
+00022 DISCUSSÃO DO ESTATUTO                                                                                                                                  A
+00023 PRÁTICA ESPORTIVAS                                                                                                                                     A
+00024 INCENTIVO AO TRABALHO EM GRUPOS                                                                                                                        A
+00025 IMPORTÂNCIA DA EDUCAÇÃO FORMAL                                                                                                                         A
+00026 PREPARO E  TRATAMENTO DAS RAQUETES/MANIVAS/COLMOS/ETC                                                                                                  A
+00027 PLANTIO EM NÍVEL                                                                                                                                       A
+00028 FORNECIMENTO AOS ANIMAIS                                                                                                                               A
+00029 SANIDADE ANIMAL                                                                                                                                        A
+00030 ALIMENTOS E ALIMENTAÇÃO                                                                                                                                A
+00031 VOLUMOSOS                                                                                                                                              A
+00032 MANEJO ALIMENTAR DO REBANHO                                                                                                                            A
+00033 MANEJO SANITÁRIO DO REBANDO (CONTROLE DE DOÊNÇAS E VACINAÇÕES)                                                                                         A
+00034 PROCESSO DE ENSILAGEM                                                                                                                                  A
+00035 PROCESSO DE FENAÇÃO                                                                                                                                    A
+00036 NUTRIÇÃO ANIMAL                                                                                                                                        A
+00037 MANEJO  SUSTENTÁVEL DE PASTAGENS (ARTIFICIAL E NATIVA)                                                                                                 A
+00038 UTILIZAÇÃO DE FORRAGENS                                                                                                                                A
+00039 SELEÇÃO DE MATRIZES                                                                                                                                    A
+00040 SELEÇÃO DE REPRODUTORES                                                                                                                                A
+00041 HIGIENIZAÇÃO DA ORDENHA                                                                                                                                A
+00042 TRANSPORTE E CONSERVAÇÃO DO LEITE                                                                                                                      A
+00043 PERÍODO DE CARÊNCIA DE MEDICAMENTOS                                                                                                                    A
+00044 UTILIZAÇÃO DE RAÇÃO BALANCEADA                                                                                                                         A
+00045 MINERALIZAÇÃO DO REBANHO                                                                                                                               A
+00046 DESCARTE E DESFRUTE                                                                                                                                    A
+00047 CUIDADOS COM OS RECEMNASCIDOS                                                                                                                          A
+00048 INSTALAÇÕES NECESSÁRIAS A EXPLORAÇÃO (C0NSTRUÇÕES E AGUADAS)                                                                                           A
+00049 FORMAÇÃO E HIGIENIZAÇÃO DE AGUADAS                                                                                                                     A
+00050 ABATE E CORTES ESPECIAIS                                                                                                                               A
+00051 CONFECÇÃO DE SULCOS E CANTEIROS                                                                                                                        A
+00052 AVALIAÇÃO PATRIMONIAL                                                                                                                                  A
+00053 ABERTURA DAS COVAS                                                                                                                                     A
+00054 PODA DE CONDUÇÃO                                                                                                                                       A
+00055 PODA DE PRODUÇÃO                                                                                                                                       A
+00056 MÉTODOS DE PROPAGAÇÃO                                                                                                                                  A
+00057 ESTUDO DE MERCADO                                                                                                                                      A
+00058 ALTERNATIVAS DE CONSORCIO                                                                                                                              A
+00059 IRRIGAÇÃO E DRENAGEM                                                                                                                                   A
+00060 INDUÇÃO DA PRODUÇÃO                                                                                                                                    A
+00061 SELEÇÃO EMBALAGEM                                                                                                                                      A
+00062 COMERCIALIZAÇÃO E TRANSPORTE                                                                                                                           A
+00063 CAPINAS E ESCARIFICAÇÃO                                                                                                                                A
+00064 COMBATE  ALTERNATIVO DAS PRAGAS                                                                                                                        A
+00065 CONTROLE ALTERNATIVO DE DOENÇAS                                                                                                                        A
+00066 CONSTRUÇÃO DE ESTUFAS                                                                                                                                  A
+00067 MANEJO SUSTENTÁVEL DOS RECURSOS NATURAIS                                                                                                               A
+00068 APOIO A CRIAÇÃO DE FEIRAS ESPECÍFICAS                                                                                                                  A
+00069 EMBALAGEM E APRESENTAÇÃO  DOS PRODUTOS                                                                                                                 A
+00070 PERÍODO DE CARÊNCIA DE MEDICAMENTOS.                                                                                                                   A
+00071 FABATE E CORTES ESPECIAIS                                                                                                                              A
+00072 CUIDADOS COM OS RECEMNASCIDOS                                                                                                                          A
+00073 IDENTIFICAÇÃO DE ÁREAS HISTÓRICAS, DE CUNHO RELIGIOSO E DE LAZER                                                                                       A
+00074 CRIAÇÃO DE PONTOS DE COMERCIALIZAÇÃO E APOIO AO TURISTA                                                                                                A
+00075 PESQUISA SOBRE A HISTÓRIA DO MUNICÍPIO                                                                                                                 A
+00076 APOIO A VAQUEJADAS E PEGAS DE BOI                                                                                                                      A
+00077 APOIO A REALIZAÇÃO DE CAMINHAS E TRILHAS ECOLÓGICAS.                                                                                                   A
+00078 IDENTIFICAÇÃO DE ÁREAS IRRIGÁVEIS                                                                                                                      A
+00079 LEVANTAMENTO TOPOGRÁFICO DE ÁREAS                                                                                                                      A
+00080 DIMENSIONAMENTO DE MOTORES E BOMBAS                                                                                                                    A
+00081 ANÁLISE DE SOLOS (IMPORTÂNCIA/UTILIDADE)                                                                                                               A
+00082 ANÁLISE DA  ÁREA DE CAPTAÇÃO(SUFICIÊNCIA)                                                                                                              A
+00083 DIMENSIONAMENTO DA REDE ELÉTRICA                                                                                                                       A
+00084 ESCOLHA DO SISTEMA                                                                                                                                     A
+00085 DEFINIÇÃO DA CULTURAS                                                                                                                                  A
+00086 MANEJO DAS CULTURAS                                                                                                                                    A
+00087 UTILIZAÇÃO E PREPARO DE DEFENSIVOS                                                                                                                     A
+00088 COMBATE E CONTROLE DE PRAGAS E DOÊNÇAS                                                                                                                 A
+00089 USO DE EPI                                                                                                                                             A
+00090 COLHEITA E COMERCIALIZAÇÃO                                                                                                                             A
+00091 UTILIZAÇÃO DE RAÇÃO BALANCEADA.                                                                                                                        A
+00092 SANIDADE ANIMAL. (VACINAS, SAL ETC)                                                                                                                    A
+00093 MERCADO E COMERCIALIZAÇÃO                                                                                                                              A
+00094 BENEFICIAMENTO DA PRODUÇÃO                                                                                                                             A
+00095 ORGANIZAÇÃO DA PRODUÇÃO                                                                                                                                A
+00096 HIGIENIZAÇÃO E EMBALAGEM                                                                                                                               A
+00097 DIMENSIONAMENTO DA PRODUÇÃO                                                                                                                            A
+00098 MANEJO ALIMENTAR                                                                                                                                       
+00099 AQUISIÇÃO DE EQUIPAMENTOS                                                                                                                              A
+00100 ORGANIZAÇÃO DO TRABALHO                                                                                                                                A
+00101 BENEFICIAMENTO E SUB-PRODUTOS                                                                                                                          A
+00102 AQUISIÇÃO COLETIVA DE INSUMOS                                                                                                                          A
+00103 CONTABILIDADE SIMPLIFICADA                                                                                                                             A
+00104 ORGANIZAÇÃO COMUNITÁRIA                                                                                                                                A
+00105 TRATAMENTO DA ÁGUA                                                                                                                                     A
+00106 MANUTENÇÃO DO MANANCIAL                                                                                                                                A
+00107 DIMENSIONAMENTO DE CISTERNAS                                                                                                                           A
+00108 LOCAÇÃO E DIMENSIONAMENTO DE AÇUDES, BARRAGENS E BARREIRO.                                                                                             A
+00109 UTILIZAÇÃO DE DESSALINIZADORES                                                                                                                         A
+00110 UTILIZAÇÃO E MANUTENÇÃO DE POÇOS                                                                                                                       A
+00111 PROJETOS ESPECIAIS.                                                                                                                                    A
+00112 ARAÇÃO EM NÍVEL                                                                                                                                        A
+00113 PREPARO DO SOLO A TRAÇÃO ANIMAL                                                                                                                        A
+00114 PREPARO DO SOLO OP-MECANIZADA                                                                                                                          A
+00115 PROGRAMAS ESPECIAIS                                                                                                                                    A
+00116 ADMINISTRAÇÃO RURAL (MERCADO/POTENCIALIDADES/CONTABILIDADE)                                                                                            A
+00117 FORMULAÇÃO DE PROPOSTA DE INVESTIMENTO RURAL                                                                                                           A
+00118 FORMULAÇÃO DE PROPOSTA DE CUSTEIO                                                                                                                      A
+00119 CONSERVAÇÃO DO SOLO E MEIO AMBIEN                                                                                                                      A
+00120 ACESSO AS POLÍTICAS PÚBLICAS                                                                                                                           A
+00121 DIAGNÓSTICO DA COMUNIDADE                                                                                                                              A
+00122 IDENTIFICAÇÃO DE POTENCIALIDADES                                                                                                                       A
+00123 DIMENSIONAMENTO  DE PEQUENAS BARRAGENS.                                                                                                                A
+00124 IMPORTÂNCIA DA MATA CILIAR                                                                                                                             A
+00125 CONSTRUÇÃO DE BARREIRAS CONTRA EROSÃO                                                                                                                  A
+00126 EROSÃO E SUAS CONSEQÜÊNCIAS.                                                                                                                           A
+00127 IMPORTÂNCIA DA PROTEÇÃO DAS NASCENTES.                                                                                                                 A
+00128 RECUPERAÇÃO DE ÁREAS DEGRADADAS                                                                                                                        A
+00129 MARCAÇÃO DE TERRAÇOS                                                                                                                                   A
+00130 MANEJO CORRETO DO LIXO E EMBALAGENS DE AGROTÓXICO.                                                                                                     A
+00131 UTILIZAÇÃO DE BARRAGENS SUBTERRÂNEAS                                                                                                                   A
+00132 IMPORTÂNCIA DA PRESERVAÇÃO DA FAUNA E DA FLORA .                                                                                                       A
+00133 ALTERNATIVAS DE PRODUÇÃO EXTRATIVISTA.                                                                                                                 A
+00134 MEDIÇÃO DAS CHUVAS.                                                                                                                                    A
+00135 CONSERVAÇÃO DE ESTRADAS                                                                                                                                A
+00136 SANEAMENTO RURAL                                                                                                                                       A
+00137 EDUCAÇÃO AMBIENTAL                                                                                                                                     A
+00138 ORGANIZAÇÃO PARA O TRABALHO.                                                                                                                           A
+00139 AGREGAÇÃO DE VALOR A PRODUÇÃO                                                                                                                          A
+00140 EMBALAGENS E BENEFICIAMENTO                                                                                                                            A
+00141 UTILIZAÇÃO DE DEFENSIVOS ALTERNATIVOS                                                                                                                  A
+00142 IRRIGAÇÃO ALTERNATIVA                                                                                                                                  A
+00143 PLANTIO DIRETO                                                                                                                                         A
+00144 UTILIZAÇÃO DE VIVEIROS (PRODUÇÃO DE MUDAS)                                                                                                             A
+00145 UTILIZAÇÃO DE SEMENTES CERTIFICADAS.                                                                                                                   A
+00146 COMERCIALIZAÇÃO COLETIVA                                                                                                                               A
+00147 NOÇÕES SOBRE AGRO ECOLOGIA                                                                                                                             A
+00148 TRATAMENTO DAS  SEMENTES (MANIVAS/COLMOS                                                                                                               A
+00149 REALIZAÇÃO DE PRÉ-NATAL                                                                                                                                A
+00150 ALIMENTAÇÃO CORRETA DO RECÉM-NASCIDO                                                                                                                   A
+00151 DOAÇÃO DE ENXOVAL                                                                                                                                      A
+00152 INCLUSÃO NAS POLÍTICAS SOCIAIS                                                                                                                         A
+00153 ENCAMINHAMENTO PARA CAPACITAÇÕES                                                                                                                       A
+00154 IDENTIFICAÇÃO DE NECESSIDADES.                                                                                                                         A
+00155 INCLUSÃO EM POLÍTICAS PÚBLICAS                                                                                                                         A
+00156 MOBILIZAÇÃO COMUNITÁRIA.                                                                                                                               A
+00158 SELEÇÃO DE PARTICIPANTES                                                                                                                               A
+00159 SELEÇÃO DE TEMAS                                                                                                                                       A
+00160 NOÇÕES DE ADMINISTRAÇÃO                                                                                                                                A
+00161 NOÇÕES DE MERCADO E COMERCIALIZAÇÃO.                                                                                                                   A
+00162 HIGIENIZAÇÃO DA PRODUÇÃO                                                                                                                               A
+00163 ASSISTÊNCIA A PRODUÇÃO DE MATÉRIA PRIMA                                                                                                                A
+00164 PROCESSO PRODUTIVO                                                                                                                                     A
+00165 LEGISLAÇÃO E VIGILÂNCIA  SANITÁRIA                                                                                                                     A
+00166 CONTROLE DE PRAGAS                                                                                                                                     A
+00167 COLHEITA                                                                                                                                               A
+00168 MANEJO SUSTENTÁVEL DE PASTAGENS                                                                                                                        A
+00169 CONTROLE ALTERNATIVO DE DENÇAS                                                                                                                         A
+00170 OBTENÇÃO DE MUDAS                                                                                                                                      A
+00171 PRODUÇÃO DE MUDAS                                                                                                                                      A
+00172 DIAGNOSTICO DO IMOVEL                                                                                                                                  A
+00173 ESTUDO DAS POTENCIALIDADES DO IMÓVEL                                                                                                                   A
+00174 DAP – BENEFICIÁRIOS, ENQUADRAMENTO, ONDE O COMO OBTER.                                                                                                 A
+00175 FONTES DE FINANCIAMENTO                                                                                                                                A
+00176 ESTUDO DE VIABILIDADE.                                                                                                                                 A
+00177 SELEÇÃO E AQUISIÇÃO DE ANIMAIS                                                                                                                         A
+00178 DIMENSIONAMENTO DE MÁQUINAS E EQUIPAMENTOS.                                                                                                            A
+00179 DIMENSIONAMENTO DE CONSTRUÇÕES E INSTALAÇÕES.                                                                                                          A
+00180 CONSTRUÇÃO, DIMENSIONAMENTO E UTILIZAÇÃO DE AGUADAS.                                                                                                   A
+00181 DIMENSIONAMENTO DO SUPORTE FORRAGEIRO.                                                                                                                 A
+00182 FORMALIZAÇÃO DE PROPOSTA DE CRÉDITO                                                                                                                    A
+00183 SUPERVISÃO E ACOPANHAMENTO .                                                                                                                           A
+00184 COLHEITA E SECAGEM DE BENEFICIAMENTO                                                                                                                   A
+00185 TRANSPORTE E ARMAZENAMENTO                                                                                                                             A
+00186 ANALISE DOS IMPACTOS AMBIENTAIS                                                                                                                        A
+00187 MANEJO SANITARIO                                                                                                                                       A
+00188 HIGIENIZAÇÃO NO ABATE                                                                                                                                  A
+00189 MANEJO ALIMENTAR                                                                                                                                       A
+00190 COLHEITA E BENEFICIAMENTO                                                                                                                              A
+00191 TRATAMENTO DAS MANIVAS SEMENTES                                                                                                                        A
+00192 IDENTIFICAÇÃO DAS NECESSIDADES                                                                                                                         A
+00193 DIMENSIONAMENTO                                                                                                                                        A
+00194 ESPAÇAMENTO                                                                                                                                            A
+00195 CERTIFICAÇÃO                                                                                                                                           A
+00196 PROCEDIMENTOS PARA DISPENSA DE LICITAÇÃO PARA AQUISIÇÕES                                                                                               A
+00197 CADASTRAMENTO DE AGRICULTORES E ENTIDADES SOCIOASSINTENCIAIS                                                                                           A
+00198 ARTICULAÇÃO, SENSIBILIZAÇÃO E MPBILIZAÇÃO PARA ACERVOS                                                                                                 A
+00199 CAPACITAÇÃO DOS EXTENSIONISTAS EM BOAS PRATICAS DO AGRICULTOR                                                                                          A
+00200 MAPEAMENTO DA PRODUÇÃO AGRICOLA LOCAL                                                                                                                  A
+00201 MAPEAMENTO DAS ESTIDADES SOCIO ASSISTENCIAIS                                                                                                           A
+00202 ELABORAÇÃO RELATORIOS PARA MDS                                                                                                                         A
+00203 LEVANTAMENTO DOCUMENTAÇÃO NECESSARIA DOS AGRICULTORES FORNECEDORES                                                                                     A
+00204 CADASTRAMENTO AGRICULTORES E-FISCO                                                                                                                     A
+00205 IMPLANTAÇÃO NOTA FISCAL ELETRONICA                                                                                                                     A
+00206 ELABORAÇÃO TERMOS REFERENCIAIS PARA AQUISIÇÃO DE CURSOS                                                                                                A
+00207 BENEFICIARIOS ATENDIDOS                                                                                                                                A
+00208 PREPARADOS FITOTERAPICOS PRODUÇÃO                                                                                                                      A
+00209 PREPARADOS FITOTERAPICOS TINTURA                                                                                                                       A
+00210 PREPARADOS FITOTERAPICOS XAROPE                                                                                                                        A
+00211 PREPARADOS FITOTERAPICOS POMADA                                                                                                                        A
+00212 PREPARADOS FITOTERAPICOS CAPSULAS                                                                                                                      A
+00213 PREPARADOS FITOTERAPICOS CHAS                                                                                                                          A
+00214 PREPARADOS FITOTERAPICOS SUPOSITORIOS                                                                                                                  A
+00215 PREPARADOS FITOTERAPICOS SABONETES                                                                                                                     A
+00216 PREPARADOS FITOTERAPICOS MUDAS                                                                                                                         A
+00218 PREPARADOS FITOTERAPICOS COMPOSTO/HUMUS                                                                                                                A
+00219 MANEJO DE CAATINGAS                                                                                                                                    A
+00220 EXTRAÇÃO DE MEL DE ABELHAS NATIVAS                                                                                                                     A
+00221 COLHEITA DE UMBU                                                                                                                                       A
+00222 MANUTENÇÃO DE UMBUZEIROS                                                                                                                               A
+00223 COLHEITA DE INGÁ                                                                                                                                       A
+00224 COLHEITA DE ARAÇÁ                                                                                                                                      A
+00225 COLHEITA DE CAJÁ                                                                                                                                       A
+00226 PROCESSAMENTO DE FRUTOS DE PLANTAS DA SOCIOBIODIVERSIDADE                                                                                              A
+00227 PLANTAS FITOTERAPICAS DA BIODIVERSIDADE                                                                                                                A
+00228 COLHEITA DE MURICI                                                                                                                                     A
+00229 INSTALAÇÃO DE UNIDADES DEMONSTRATIVAS SOBRE MANEJO DA SOCIOBIODIVERSIDADE                                                                              A
+00230 ARTESANATO COM PLANTAS E SEMENTES DA SOCIOBIODIVERSIDADE                                                                                               A
+00231 REFLORESTAMENTO COM PLANTAS DA SOCIOBIODIVERSIDADE                                                                                                     A
+00233 PLANTAS FITOTERAPICAS DA BIODIVERSIDADE                                                                                                                A
+00234 ABATE/COLHEITA/BENEFICIAMENTO, TRANSPORTE E CONSERVAÇÃO DA PRODUÇÃO                                                                                    A
+00235 ACESSO A POLÍTICAS POLITICAS PÚBLICAS (GARANTIA SAFRA/PRONAF/PAA/PNAE/TERRA PRONTA/DISTRIBUIÇÃO DE SEMENTES)                                           A
+00238 ADUBAÇÃO ORGÂNICA E/OU QUIMICA                                                                                                                         A
+00240 APICULTURA (MANEJO/COMERCIALIZAÇÃO/BENEFICIAMENTO)                                                                                                     A
+00244 COMERCIALIZAÇÃO (ESTUDO DE MERCADO/ACESSO AOS PROGRAMAS OFICIAL)                                                                                       A
+00246 EXTRATIVISMO ANIMAL: PESCA ARTESANAL                                                                                                                   A
+00248 HIGIENIZAÇÃO  (DAS INSTALAÇÕES E DA ORDENHA)                                                                                                           A
+00252 MANEJO ALIMENTAR DO REBANHO (UTILIZAÇÃO DE RAÇÃO BALANCIADA/PASTAGENS E FORRAGENS)                                                                     A
+00253 MANEJO PISCICULTORA TANQUES-REDE E ESCAVADOS(ARRAÇOAMENTO/SANIDADE)                                                                                    A
+00259 PREPARO DO SOLO (ARAÇÃO TRAÇÃO ANIMAL E/OU MECANIZADA)                                                                                                 A
+00261 PRODUÇÃO E CONSERVAÇÃO DE FORRAGENS (ENSILAGEM, FENAÇÃO, AMONIZAÇÃO...ETC)                                                                             A
+00262 SELEÇÃO DE MATRIZES E REPRODUTORES                                                                                                                     A
+00263 TRATOS CULTURAIS (CAPINAS/PODA/)                                                                                                                       A
+00264 USO DE EPI (EQUIPAMENTO DE PROTEÇÃO INDIVIDUAL)                                                                                                        A
+00265 UTILICAÇÃO CORRETA DE DEFENSIVOS E MEDICAMENTOS                                                                                                        A
+00266 UTILIZAÇÃO DE SEMENTES SELECIONADAS                                                                                                                    A

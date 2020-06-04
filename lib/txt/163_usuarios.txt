@@ -1,0 +1,9 @@
+00219 00163 Francisco Lopes Sobrinho                                                                             francisco.lopes                                    cd5305dd98607592cda841bc640ad6e6 A
+00576 00163 Denny Lapenda Fagundes                                                                               lapenda.denny                                      5afa12137f72b8835167599d9cc0a77d A
+00580 00163 José Wilson Pinto Saraiva                                                                            jose.saraiva                                       81b073de9370ea873f548e31b8adc081 I
+00630 00163 José Joseli da Silva                                                                                 joseli.silva                                       f717c413cebc560ff181002dbc323431 A
+00631 00163 José Rijalma de Oliveira                                                                             jose.rijalma                                       22349c1a34658f958b6e7b311be105dd A
+00672 00163 Betânia Maria de Melo                                                                                betania.melo                                       e10adc3949ba59abbe56e057f20f883e A
+01072 00163 Elias Moura de Morais                                                                                elias.moura                                        e10adc3949ba59abbe56e057f20f883e A
+01076 00163 Simone Jose Bernardo                                                                                 simone.bernardo                                    d238bfe1ed9a84d0f4b9c0e1aa3d2672 A
+01077 00163 Anselmo Alves Vaz                                                                                    anselmo.vaz                                        1915a51412c2a92fc13f04a4d664d711 A

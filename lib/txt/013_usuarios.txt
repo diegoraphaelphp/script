@@ -1,0 +1,16 @@
+00216 00013 Cátia Maria Tenório Lira                                                                             catia.lira                                         0ce9db710a658d5498f704d6a8bb9114 A
+00229 00013 José Antonio de Carvalho Brito                                                                       jose.brito                                         7ea884723edf041087774f043f00000b A
+00230 00013 Vital Goiana Leal                                                                                    vital.leal                                         f7b6291ca8d078fdb8eba3854cff52e3 A
+00590 00013 Fabiana Aparecida da Silva Araújo                                                                    fabiana.araujo                                     8c521da8ecf60cea82951a285c56ee9c A
+00591 00013 Daniel Paulino da Silva                                                                              daniel.paulino                                     dbc1368f65b80c1ca1e870b94ee6b562 A
+00698 00013 Antônio Bezerra Flôr                                                                                 antonio.bezerra                                    e10adc3949ba59abbe56e057f20f883e A
+00707 00013 Flavia Guimarães de Araújo                                                                           flavia.guimaraes                                   e10adc3949ba59abbe56e057f20f883e A
+00726 00013 Maria do Socorro Rosa                                                                                maria.rosa                                         e10adc3949ba59abbe56e057f20f883e A
+00797 00013 Antônio Santana dos Santos Filho                                                                     antonio.santana                                    e10adc3949ba59abbe56e057f20f883e A
+00798 00013 Djalma Cordeiro dos Santos                                                                           djalma.cordeiro                                    e10adc3949ba59abbe56e057f20f883e A
+00799 00013 Júlio César Vieira de Oliveira                                                                       julio.cesar                                        e10adc3949ba59abbe56e057f20f883e A
+00800 00013 Valderedes Martins da Silva                                                                          valderedes.martins                                 e10adc3949ba59abbe56e057f20f883e A
+00801 00013 Vanda Lúcia Arcanjo Pereira                                                                          vanda.arcanjo                                      e10adc3949ba59abbe56e057f20f883e A
+00937 00013 Almir Anacleto Valdevino                                                                             almir.anacleto                                     e2271197e1593b67c64442370ee6d586 A
+01065 00013 Thamir Simon Alves Bezerra                                                                           thamir.simon                                       e10adc3949ba59abbe56e057f20f883e A
+01066 00013 Alexandre Fernando Dos Santos França                                                                 alexandre.fernando                                 e10adc3949ba59abbe56e057f20f883e A

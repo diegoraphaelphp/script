@@ -1,0 +1,3 @@
+00001 001 BANCO DO BRASIL                                    A
+00002 104 CAIXA ECONOMICA FEDERAL                            A
+00003 004 BANCO DO NORDESTE DO BRASIL S/A                    A

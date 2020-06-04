@@ -1,0 +1,19 @@
+00001 Kg                                                                                                                                                     A
+00002 Cursos                                                                                                                                                 A
+00003 ha                                                                                                                                                     A
+00004 Nº                                                                                                                                                     A
+00005 Eventos                                                                                                                                                A
+00006 cab                                                                                                                                                    A
+00007 Toneladas                                                                                                                                              A
+00008 R$                                                                                                                                                     A
+00009 Unid.                                                                                                                                                  A
+00010 Litros                                                                                                                                                 A
+00011 m²                                                                                                                                                     A
+00013 Km                                                                                                                                                     A
+00014 Mudas Plantadas                                                                                                                                        A
+00016 Planos                                                                                                                                                 A
+00017 Plantas                                                                                                                                                A
+00019 Tonelada                                                                                                                                               A
+00020 mil                                                                                                                                                    A
+00021 Oficina                                                                                                                                                A
+00024 agricultor                                                                                                                                             A

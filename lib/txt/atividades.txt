@@ -1,0 +1,620 @@
+00001 00025 00004 Atividades em parceria com a pesquisa                                                                                                                  A P
+00002 00025 00004 Introdução do sistema PAIS                                                                                                                             A P
+00003 00025 00004 Laboratórios de fitoterapia (exist. + introd.)                                                                                                         A P
+00004 00025 00003 Plantas fitoterápicas e medicinais                                                                                                                     A P
+00005 00025 00003 Plantio de algodão orgânico                                                                                                                            A P
+00006 00025 00003 Plantio de cará orgânico                                                                                                                               A P
+00007 00025 00003 Plantio de fruteiras orgânicas                                                                                                                         A P
+00008 00025 00003 Plantio de hortaliças orgânicas                                                                                                                        A P
+00009 00025 00010 Produção de mel orgânico                                                                                                                               A P
+00010 00025 00004 Unidades demonstrativas                                                                                                                                A P
+00011 00011 00003 Cultivo de Abacaxi (exist. + introd.)                                                                                                                  A P
+00012 00011 00003 Cultivo de Limão Taiti (exist. + introd.)                                                                                                              A P
+00013 00011 00003 Cultivo de Tangerina (exist. + introd.)                                                                                                                A P
+00014 00011 00003 Culturas (existentes + introduzidas) - Cajueiro                                                                                                        A P
+00015 00011 00003 Culturas (existentes + introduzidas) - Aceroleira                                                                                                      A P
+00016 00011 00003 Culturas (existentes + introduzidas) - Bananeira                                                                                                       A P
+00017 00011 00003 Culturas (existentes + introduzidas) - Coqueiro                                                                                                        A P
+00018 00011 00003 Culturas (existentes + introduzidas) - Goiabeira                                                                                                       A P
+00019 00011 00003 Culturas (existentes + introduzidas) - Mamoeiro                                                                                                        A P
+00020 00011 00003 Culturas (existentes + introduzidas) - Mangueira                                                                                                       A P
+00021 00011 00003 Culturas (existentes + introduzidas) - Maracujá                                                                                                        A P
+00022 00011 00003 Culturas (existentes + introduzidas) - Pinheira                                                                                                        A P
+00023 00011 00003 Culturas (existentes + introduzidas) - Pinheira                                                                                                        A P
+00024 00011 00003 Culturas (existentes + introduzidas) - Videira                                                                                                         A P
+00025 00011 00004 Fruticultura - Apoio à comercialização da produção                                                                                                     A P
+00026 00011 00004 Fruticultura - Apoio à industrialização e beneficiamento                                                                                               A P
+00027 00011 00004 Fruticultura - Defesa sanitária vegetal                                                                                                                A P
+00028 00011 00004 Fruticultura - Pesquisa participativa                                                                                                                  A P
+00029 00011 00004 Fruticultura - Qualificação profissional                                                                                                               A P
+00030 00011 00004 Fruticultura - Unidade de Referência                                                                                                                   A P
+00031 00011 00004 Fruticultura - Unidades demonstrativas                                                                                                                 A P
+00032 00011 00003 Plantio de cajueiro anão (exist. + introd.)                                                                                                            A P
+00033 00011 00003 Plantio de Citrus (exist. + introd.)                                                                                                                   A P
+00034 00011 00003 Plantio de Graviola (exist. + introd.)                                                                                                                 A P
+00035 00011 00003 Plantio de Graviola (exist. + introd.)                                                                                                                 A P
+00036 00011 00003 Plantio de Maracujá (exist. + introd.)                                                                                                                 A P
+00037 00011 00003 Substituição de copas de cajueiro                                                                                                                      A P
+00038 00011 00004 Unidades demonstrativas                                                                                                                                A P
+00039 00011 00004 Unidades demonstrativas de produção de mudas frutíferas                                                                                                A P
+00040 00010 00003 Área irrigada com flores (exist. + introd.) por microaspersão                                                                                          A P
+00041 00010 00003 Área irrigada com flores (exist. + introd.) por gotejamento                                                                                            A P
+00042 00010 00003 Área irrigada com flores (exist. + introd.) por aspersão convencional                                                                                  A P
+00043 00010 00003 Irrigação em áreas difusas - culturas olerícolas por microaspersão                                                                                     A P
+00044 00010 00003 Irrigação em áreas difusas - culturas olerícolas por gotejamento                                                                                       A P
+00045 00010 00003 Irrigação em áreas difusas - culturas olerícolas por inundação                                                                                         A P
+00046 00010 00003 Área irrigada com pastagens por aspersão convencional                                                                                                  A P
+00047 00010 00003 Irrigação em áreas difusas - culturas frutícolas por microaspersão                                                                                     A P
+00048 00010 00003 Irrigação em áreas difusas - culturas frutícolas por gotejamento                                                                                       A P
+00049 00010 00003 Irrigação em áreas difusas - culturas frutícolas por aspersão convencional                                                                             A P
+00050 00010 00003 Irrigação em áreas difusas - culturas olerícolas irrigação por sulco                                                                                   A P
+00051 00010 00003 Irrigação em áreas difusas - grãos por inundação                                                                                                       A P
+00052 00010 00003 Irrigação em áreas difusas - grãos por aspersão convencional                                                                                           A P
+00053 00010 00003 Irrigação em áreas difusas - raízes e tubérculos por microaspersão                                                                                     A P
+00054 00010 00003 Irrigação em áreas difusas - raízes e tubérculos por aspersão convencional                                                                             A P
+00055 00010 00004 Irrigação em áreas difusas - qualificação profissional                                                                                                 A P
+00056 00003 00004 Organização Social assistida                                                                                                                           A P
+00057 00003 00004 Capacitação                                                                                                                                            A P
+00058 00003 00004 Apoio à promoção de eventos                                                                                                                            A P
+00059 00015 00004 Artesanato - Organização Rural assistida                                                                                                               A P
+00060 00015 00004 Artesanato - Capacitação                                                                                                                               A P
+00061 00015 00004 Artesanato - Elaboração de projetos                                                                                                                    A P
+00062 00015 00004 Artesanato - Promoção de eventos                                                                                                                       A P
+00063 00015 00004 Turismo Rural - Organização Rural assistida                                                                                                            A P
+00064 00015 00004 Turismo - Atrativo Turístico                                                                                                                           A P
+00065 00015 00004 Turismo - Elaboração de projetos                                                                                                                       A P
+00066 00015 00004 Turismo - Promoção de eventos                                                                                                                          A P
+00067 00029 00004 Cursos Ministrados                                                                                                                                     A P
+00068 00029 00004 Cursos Ministrados para Técnicos                                                                                                                       A P
+00069 00029 00004 Cursos Ministrados para Agricultores                                                                                                                   A P
+00070 00029 00004 Técnicos Capacitados                                                                                                                                   A P
+00071 00029 00004 Agricultores Capacitados                                                                                                                               A P
+00072 00007 00003 Agricultura Orgânica                                                                                                                                   A P
+00073 00007 00003 Conservação do solo                                                                                                                                    A P
+00074 00007 00004 Educação Ambiental                                                                                                                                     A P
+00075 00007 00004 Eventos de convivência com o semi-árido                                                                                                                A P
+00076 00007 00003 Manejo sustentável da caatinga                                                                                                                         A P
+00077 00007 00004 Manejo sustentável dos recursos hídricos                                                                                                               A P
+00078 00007 00004 Pesquisa participativa                                                                                                                                 A P
+00079 00007 00004 Qualificação Profissional                                                                                                                              A P
+00080 00007 00004 Unidade de referência implantada                                                                                                                       A P
+00081 00007 00004 Unidade demonstrativa implantada                                                                                                                       A P
+00082 00031 00004 Oficina de Técnicas de Produção e Gestão de Agroindústria Familiar                                                                                     A P
+00083 00031 00004 Oficina de Legislação Sanitária e Boas Práticas de Fabricação                                                                                          A P
+00084 00031 00004 Elaboração e Implantação de Projetos Produtivos                                                                                                        A P
+00085 00031 00000                                                                                                                                                        A P
+00086 00031 00000                                                                                                                                                        A P
+00087 00031 00000                                                                                                                                                        A P
+00088 00031 00000                                                                                                                                                        A P
+00089 00031 00000                                                                                                                                                        A P
+00090 00016 00009 Apicultura - beneficiamento da produção (casa de mel)                                                                                                  A P
+00091 00016 00004 Apicultura - colméias introduzidas                                                                                                                     A P
+00092 00016 00004 Apicultura - construção de conhecimento em gestão                                                                                                      A P
+00093 00016 00010 Apicultura - produção de mel esperada                                                                                                                  A P
+00094 00016 00006 Criação de Galinha de Capoeira - introdução de matrizes                                                                                                A P
+00095 00016 00006 Criação de Galinha de Capoeira - introdução de reprodutores                                                                                            A P
+00096 00016 00006 Criação de Galinha de Capoeira - total cabeças                                                                                                         A P
+00097 00016 00006 Galinha de Capoeira - vacinação (newcastle aviária)                                                                                                    A P
+00098 00013 00006 Defesa sanitária animal - Combate a endo e ectoparasitoses                                                                                             A P
+00099 00013 00004 Defesa sanitária animal - Qualificação Profissional                                                                                                    A P
+00100 00013 00006 Defesa sanitária animal - Vacinação contra Febre Aftosa                                                                                                A P
+00101 00013 00001 Industrialização da produção  - produção do queijo                                                                                                     A P
+00102 00013 00006 Melhoramento genético do rebanho - introdução de matrizes                                                                                              A P
+00103 00013 00006 Melhoramento genético do rebanho - introdução de reprodutores                                                                                          A P
+00104 00013 00006 Total do rebanho                                                                                                                                       A P
+00105 00013 00004 Metodologia - dia de campo                                                                                                                             A P
+00106 00013 00004 Metodologia - dia especial                                                                                                                             A P
+00107 00013 00004 Metodologia - excursões                                                                                                                                A P
+00108 00013 00004 Metodologia - Reuniões técnicas                                                                                                                        A P
+00109 00013 00003 Pastagens Artificiais - formação de pastagens                                                                                                          A P
+00110 00013 00003 Pastagens Artificiais - manejo sustentável                                                                                                             A P
+00111 00013 00003 Pastagens nativas - área total                                                                                                                         A P
+00112 00013 00019 Produção de feno                                                                                                                                       A P
+00113 00013 00019 Produção de silagem                                                                                                                                    A P
+00114 00014 00006 Defesa Sanitária Animal - combate a endo e ectoparasitas                                                                                               A P
+00115 00014 00004 Defesa Sanitária Animal - qualificação profissional                                                                                                    A P
+00116 00014 00006 Defesa Sanitária Animal - vacinação contra febre aftosa                                                                                                A P
+00117 00014 00001 Industrialização da produção - produção de queijo                                                                                                      A P
+00118 00014 00006 Melhoramento genético do rebanho - introdução de matrizes                                                                                              A P
+00119 00014 00006 Melhoramento genético do rebanho - introdução de reprodutores                                                                                          A P
+00120 00014 00006 Total do rebanho                                                                                                                                       A P
+00121 00014 00004 Metodologia - dia de campo                                                                                                                             A P
+00122 00014 00004 Metodologia - dia especial                                                                                                                             A P
+00123 00014 00004 Metodologia - excursões                                                                                                                                A P
+00124 00014 00004 Metodologia - excursões                                                                                                                                A P
+00125 00014 00004 Metodologia - reuniões técnicas                                                                                                                        A P
+00126 00014 00003 Pastagens artificiais - formação de pastagens                                                                                                          A P
+00127 00014 00003 Pastagens artificiais - manejo sustentável                                                                                                             A P
+00128 00014 00003 Pastagens nativas - área total                                                                                                                         A P
+00129 00014 00003 Pastagens nativas - manejo sustentável                                                                                                                 A P
+00130 00014 00019 Produção de feno                                                                                                                                       A P
+00131 00014 00007 Produção de silagem                                                                                                                                    A P
+00132 00021 00004 Alunos alfabetizados                                                                                                                                   A P
+00133 00021 00004 Cursos realizados                                                                                                                                      A P
+00134 00008 00008 PRONAF A - Montante                                                                                                                                    A P
+00135 00008 00004 PRONAF A - Nº Planos                                                                                                                                   A P
+00136 00008 00008 PRONAF AC - Montante                                                                                                                                   A P
+00137 00008 00004 PRONAF AC - Nº Planos                                                                                                                                  A P
+00138 00008 00008 PRONAF B - Montante                                                                                                                                    A P
+00139 00008 00004 PRONAF B - Nº Planos                                                                                                                                   A P
+00140 00008 00008 PRONAF AF - Custeio - Montante                                                                                                                         A P
+00141 00008 00004 PRONAF AF - Custeio - Nº Planos                                                                                                                        A P
+00142 00008 00008 PRONAF AF - Investimentos - Montante                                                                                                                   A P
+00143 00008 00004 PRONAF AF - Investimentos - Nº Planos                                                                                                                  A P
+00144 00008 00008 PRONAF  Jovem - Montante                                                                                                                               A P
+00145 00008 00004 PRONAF  Jovem - Nº Planos                                                                                                                              A P
+00146 00008 00008 PRONAF  Mais Alimento - Montante                                                                                                                       A P
+00147 00008 00004 PRONAF  Mais Alimento - Nº Planos                                                                                                                      A P
+00148 00008 00008 PRONAF Mulher - Montante                                                                                                                               A P
+00149 00008 00004 PRONAF Mulher - Nº Planos                                                                                                                              A P
+00150 00008 00004 DAPs emitidas e homologadas (Modelos 1.7 e sucessoras)                                                                                                 A P
+00151 00008 00004 DAPs emitidas e homologadas para o Garantia Safra (Modelos 9.2 e sucessoras)                                                                           A P
+00152 00008 00004 Inscrição para o Garantia Safra (IGS)                                                                                                                  A P
+00153 00008 00004 Imposição de Laudos de Acompanhamento - 1º momento                                                                                                     A P
+00154 00008 00004 Imposição de Laudos de Acompanhamento - 2º momento                                                                                                     A P
+00155 00008 00004 Imposição de Laudos de Acompanhamento - 3º momento                                                                                                     A P
+00156 00008 00004 Unidades de Referência - Garantia Safra (UR GS)                                                                                                        A P
+00157 00008 00004 Unidades de Referência - UR SEAF                                                                                                                       A P
+00158 00024 00004 Agricultor Familiar Assistido (Sem repetição)                                                                                                          A P
+00159 00024 00004 Agricultores Capacitados (Sem repetição)                                                                                                               A P
+00160 00024 00004 Construção de Bacias de Contenção de Enxurradas em Estradas                                                                                            A P
+00161 00024 00004 Construção de Barragens de Contenção de Sedimentos                                                                                                     A P
+00162 00024 00003 Construção de Terraços com Micro Barragens                                                                                                             A P
+00163 00024 00004 Curso de Capacitação de Agricultores                                                                                                                   A P
+00164 00024 00004 Estabilização de Voçorocas                                                                                                                             A P
+00165 00024 00013 Proteção de Nascentes com Cercas                                                                                                                       A P
+00166 00024 00013 Proteção de Mata Ciliar                                                                                                                                A P
+00167 00031 00000                                                                                                                                                        A P
+00168 00031 00000                                                                                                                                                        A P
+00169 00031 00000                                                                                                                                                        A P
+00170 00031 00004 Orientação para a elaboração de projetos de edificações e instalação de agroindústria                                                                  A P
+00171 00031 00004 Orientação para a elaboração de proj. de readequação de estrut físicas de agroindústria já instalada                                                   A P
+00172 00031 00004 Assistência Técnica para melhoria do processo produtivo                                                                                                A P
+00173 00031 00004 Orientação sobre mercado                                                                                                                               A P
+00174 00031 00004 Orientação para legislação da agroindústria                                                                                                            A P
+00175 00031 00004 Oficina de Embalagem e Apresentação de Produto                                                                                                         A P
+00176 00031 00004 Oficina de Comercialização e Tributação dos Produtos da Agroindústria Familiar                                                                         A P
+00177 00023 00004 Assentamentos assistidos                                                                                                                               A P
+00178 00023 00004 Famílias assentadas assistidas                                                                                                                         A P
+00179 00023 00004 Assentamentos do ITERPE assistidos - Fundiários (assent. antigos do FUNTEPE)                                                                           A P
+00180 00023 00004 Assentamentos do ITERPE assistidos - Programa "Cédula da Terra"                                                                                        A P
+00181 00023 00004 Assentamentos do ITERPE assistidos - Programa do "Crédito Fundiário"                                                                                   A P
+00182 00023 00004 DRP/diagnóstico elaborado                                                                                                                              A P
+00183 00023 00004 Plano de Controle Ambiental (PCA)                                                                                                                      A P
+00184 00004 00003 Área plantada de clones resistentes à cochonilha do carmim                                                                                             A P
+00185 00004 00003 Área plantada de palma adensada                                                                                                                        A P
+00186 00004 00003 Área plantada de palma tradicional                                                                                                                     A P
+00187 00004 00003 Manejo adequado                                                                                                                                        A P
+00188 00004 00004 Divulgação de clone resistente à cochonilha                                                                                                            A P
+00189 00004 00004 Excursão realizada                                                                                                                                     A P
+00190 00004 00004 Instalação de unidades demonstrativas                                                                                                                  A P
+00191 00004 00004 Qualificação profissional                                                                                                                              A P
+00192 00004 00004 Reuniões para assistência técnica                                                                                                                      A P
+00193 00004 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00194 00020 00003 Preparo de Solo                                                                                                                                        A P
+00195 00020 00019 Distribuição de fertilizantes (cana-de-açúcar)                                                                                                         A P
+00196 00006 00006 Combate a endo e ectoparasitoses                                                                                                                       A P
+00197 00006 00006 Introdução de matrizes                                                                                                                                 A P
+00198 00006 00006 Introdução de reprodutores                                                                                                                             A P
+00199 00006 00004 Dia de Campo                                                                                                                                           A P
+00200 00006 00004 Excursões                                                                                                                                              A P
+00201 00006 00004 Qualificação profissional                                                                                                                              A P
+00202 00006 00004 Reuniões técnicas                                                                                                                                      A P
+00203 00006 00003 Formação de pastagem artificial                                                                                                                        A P
+00204 00006 00003 Manejo sustentável de pastagem artificial                                                                                                              A P
+00205 00006 00003 Área total de pastagem nativa                                                                                                                          A P
+00206 00006 00003 Manejo sustentável de pastagem nativa                                                                                                                  A P
+00207 00006 00001 Produção - outros derivados de carne                                                                                                                   A P
+00208 00006 00019 Produção de feno                                                                                                                                       A P
+00209 00006 00019 Produção de silagem                                                                                                                                    A P
+00210 00006 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00211 00006 00006 Rebanho Total                                                                                                                                          A P
+00212 00006 00006 Vacinação contra febre aftosa                                                                                                                          A P
+00213 00006 00006 Manejo adequado de rebanho                                                                                                                             A P
+00214 00005 00006 Combate a endo e ectoparasitoses                                                                                                                       A P
+00215 00005 00006 Introdução de matrizes                                                                                                                                 A P
+00216 00005 00004 Dia de campo                                                                                                                                           A P
+00217 00005 00004 Excursões                                                                                                                                              A P
+00218 00005 00004 Qualificação profissional                                                                                                                              A P
+00219 00005 00004 Reuniões Técnicas                                                                                                                                      A P
+00220 00005 00003 Formação de pastagem artificial                                                                                                                        A P
+00221 00005 00003 Manejo sustentável de pastagem artificial                                                                                                              A P
+00222 00005 00003 Área total de pastagem nativa                                                                                                                          A P
+00223 00005 00003 Manejo sustentável de pastagem nativa                                                                                                                  A P
+00224 00005 00019 Produção de feno                                                                                                                                       A P
+00225 00005 00001 Produção de queijo                                                                                                                                     A P
+00226 00005 00019 Produção de silagem                                                                                                                                    A P
+00227 00005 00001 Produção outros derivados                                                                                                                              A P
+00228 00005 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00229 00005 00006 Rebanho Total                                                                                                                                          A P
+00230 00005 00006 Vacinação contra febre aftosa                                                                                                                          A P
+00231 00005 00006 Manejo adequado do rebanho                                                                                                                             A P
+00232 00002 00003 Cana-de-açúcar: Fundação da lavoura                                                                                                                    A P
+00233 00002 00003 Cana-de-açúcar: Manejo cultural                                                                                                                        A P
+00234 00002 00019 Cana-de-açúcar: Volume de produção                                                                                                                     A P
+00235 00002 00003 Cultivo da Mamona: Fundação da lavoura                                                                                                                 A P
+00236 00002 00003 Cultivo da Mamona: Manejo cultural                                                                                                                     A P
+00237 00002 00019 Cultivo da Mamona: Volume de produção                                                                                                                  A P
+00238 00002 00019 Cultivo de Feijão Phaseolus: Volume de produção                                                                                                        A P
+00239 00002 00019 Cultivo de Feijão Vigna: Volume de produção                                                                                                            A P
+00240 00002 00019 Cultivo de Milho: Volume de produção                                                                                                                   A P
+00241 00002 00019 Cultivo de Algodão Herbáceo: Volume de produção                                                                                                        A P
+00242 00002 00019 Cultivo de Sorgo Granífero: Volume de produção                                                                                                         A P
+00243 00002 00019 Cultivo de Sorgo Forrageiro: Volume de produção                                                                                                        A P
+00244 00002 00019 Cultivo de Fava: Volume de produção                                                                                                                    A P
+00245 00002 00019 Consórcios: Cultivo de Milho X Feijão (Volume de produção)                                                                                             A P
+00246 00002 00019 Consórcios: Cultivo de Mamona X Feijão (Volume de produção)                                                                                            A P
+00247 00027 00019 Cultivo da Macaxeira: Volume de produção                                                                                                               A P
+00248 00027 00019 Cultivo do Inhame: Volume de produção                                                                                                                  A P
+00249 00027 00019 Cultivo do Cará-da-Costa: Volume de produção                                                                                                           A P
+00250 00027 00019 Cultivo da Batata Doce: Volume de produção                                                                                                             A P
+00251 00027 00019 Cultivo da Batatinha: Volume de produção                                                                                                               A P
+00252 00022 00003 Fundação da lavoura                                                                                                                                    A P
+00253 00022 00003 Manejo cultural                                                                                                                                        A P
+00254 00022 00019 Volume de produção                                                                                                                                     A P
+00255 00022 00004 Planos de crédito aprovados                                                                                                                            A P
+00256 00022 00008 Valor total do crédito                                                                                                                                 A P
+00260 00019 00004 Comercialização: Eventos realizados                                                                                                                    A P
+00261 00019 00004 Comercialização: Projetos elaborados                                                                                                                   A P
+00262 00019 00004 Comercialização: Projetos liberados                                                                                                                    A P
+00263 00019 00008 Comercialização: Valor dos Projetos liberados                                                                                                          A P
+00264 00026 00004 Unidades Demonstrativas                                                                                                                                A P
+00265 00026 00004 Instalação do Sistema PAIS                                                                                                                             A P
+00266 00026 00003 Plantio de Algodão Orgânico                                                                                                                            A P
+00267 00026 00003 Plantio de Hortaliças Orgânicas                                                                                                                        A P
+00268 00026 00003 Plantio Fruteiras Orgânicas                                                                                                                            A P
+00269 00026 00003 Plantio Cará Orgânico                                                                                                                                  A P
+00270 00032 00004 UD com Plantas Fitoterápicas                                                                                                                           A P
+00271 00032 00004 Laboratórios de Fitoterapia                                                                                                                            A P
+00272 00032 00003 Plantio de Fitoterápicos para Comercialização                                                                                                          A P
+00273 00033 00001 Exploração Frutas Nativas - UMBU                                                                                                                       A P
+00274 00033 00001 Exploração Frutas Nativas - MURICI                                                                                                                     A P
+00275 00033 00001 Exploração Frutas Nativas - ARAÇÁ                                                                                                                      A P
+00276 00033 00001 Exploração Frutas Nativas - CAJÁ                                                                                                                       A P
+00277 00033 00010 Mel de Abelha APIS                                                                                                                                     A P
+00278 00033 00010 Mel de Abelha Meliponas                                                                                                                                A P
+00279 00033 00004 UD Manejo da Sociobiodiversidade                                                                                                                       A P
+00280 00012 00003 Culturas (existentes + introduzidas) - Abóbora                                                                                                         A P
+00281 00012 00003 Culturas (existentes + introduzidas) - Alface                                                                                                          A P
+00282 00012 00003 Culturas (existentes + introduzidas) - Beterraba                                                                                                       A P
+00283 00012 00003 Culturas (existentes + introduzidas) - Cenoura                                                                                                         A P
+00284 00012 00003 Culturas (existentes + introduzidas) - Coentro                                                                                                         A P
+00285 00012 00003 Culturas (existentes + introduzidas) - Maxixe                                                                                                          A P
+00286 00012 00003 Culturas (existentes + introduzidas) - Pimentão                                                                                                        A P
+00287 00012 00003 Culturas (existentes + introduzidas) - Quiabo                                                                                                          A P
+00288 00012 00003 Culturas (existentes + introduzidas) - Repolho                                                                                                         A P
+00289 00012 00003 Culturas (existentes + introduzidas) - Tomate                                                                                                          A P
+00290 00012 00003 Culturas (existentes + introduzidas) - Vagem                                                                                                           A P
+00291 00012 00003 Culturas (existentes + introduzidas) - Cebola                                                                                                          A P
+00292 00012 00003 Culturas (existentes + introduzidas) - Melancia                                                                                                        A P
+00293 00012 00003 Culturas (existentes + introduzidas) - Melão                                                                                                           A P
+00294 00012 00004 Olericultura - Apoio à comercialização da produção                                                                                                     A P
+00295 00012 00004 Olericultura - Apoio à industrialização e beneficiamento                                                                                               A P
+00296 00012 00004 Olericultura - Defesa Sanitária Vegetal                                                                                                                A P
+00297 00012 00004 Olericultura - Pesquisa Participativa                                                                                                                  A P
+00298 00012 00004 Olericultura - Qualificação Profissional                                                                                                               A P
+00299 00012 00004 Olericultura - Unidade de Referência                                                                                                                   A P
+00300 00012 00004 Olericultura - Unidades Administrativas                                                                                                                A P
+00301 00012 00003 Plantio de Chuchu (exist. + introd.)                                                                                                                   A P
+00302 00009 00003 Introdução de Culturas - cana-de-açúcar                                                                                                                A P
+00303 00009 00003 Introdução de Culturas - mamona                                                                                                                        A P
+00304 00009 00003 Introdução de Culturas - pinhão                                                                                                                        A P
+00305 00009 00004 Metodologia - capacitações                                                                                                                             A P
+00306 00009 00004 Metodologia - dia de campo                                                                                                                             A P
+00307 00009 00004 Metodologia - excursões                                                                                                                                A P
+00308 00009 00004 Metodologia - instalação de unidades demonstrativas                                                                                                    A P
+00309 00009 00004 Metodologia - palestras                                                                                                                                A P
+00310 00009 00004 Metodologia - reuniões técnicas                                                                                                                        A P
+00311 00009 00003 Reflorestamento - área reflorestada                                                                                                                    A P
+00312 00009 00003 Reflorestamento - manejo sustentável de reserva florestal                                                                                              A P
+00313 00017 00019 Criação de Camarão                                                                                                                                     A P
+00314 00017 00009 Criação em tanque rede - nº tanques redes                                                                                                              A P
+00315 00017 00009 Criação em viveiros - nº viveiros                                                                                                                      A P
+00316 00017 00009 Peixamento - qualidade de alevinos                                                                                                                     A P
+00317 00017 00019 Pesca artesanal                                                                                                                                        A P
+00318 00017 00004 Qualificação Profissional                                                                                                                              A P
+00319 00028 00004 Quantidade de mulheres assistidas                                                                                                                      A P
+00320 00018 00004 Ampliação de pequenas barragens                                                                                                                        A P
+00321 00018 00004 Construção de Adutoras                                                                                                                                 A P
+00322 00018 00004 Construção de barragens subterrâneas                                                                                                                   A P
+00323 00018 00004 Construção de cisternas                                                                                                                                A P
+00324 00018 00004 Construção de conhecimento em gestão                                                                                                                   A P
+00325 00018 00004 Construção de pequenas barragens                                                                                                                       A P
+00326 00018 00004 Construção de poços amazonas                                                                                                                           A P
+00327 00018 00004 Implantação de sistemas simplificados de abastecimento d'água rural                                                                                    A P
+00328 00018 00004 Instalação de Dessalinizadores                                                                                                                         A P
+00329 00018 00004 Instalação de poços tubulares                                                                                                                          A P
+00330 00018 00004 Noções de gestão participativa                                                                                                                         A P
+00331 00018 00004 Noções sobre legislação e outorga de água                                                                                                              A P
+00332 00018 00004 Perfuração de poços tubulares                                                                                                                          A P
+00333 00018 00004 Recuperação de adutoras                                                                                                                                A P
+00334 00018 00004 Recuperação de barragens subterrâneas                                                                                                                  A P
+00335 00018 00004 Recuperação de Dessalinizadores                                                                                                                        A P
+00336 00018 00004 Recuperação de pequenas barragens                                                                                                                      A P
+00337 00018 00004 Recuperação de poços amazonas                                                                                                                          A P
+00338 00018 00004 Recuperação de poços tubulares                                                                                                                         A P
+00339 00018 00004 Recuperação de cisternas                                                                                                                               A P
+00340 00018 00004 Teste de vazão de poços tubulares                                                                                                                      A P
+00341 00018 00004 Uso racional dos recursos hídricos                                                                                                                     A P
+00342 00001 00003 Área Total Plantada                                                                                                                                    A P
+00343 00001 00001 Distribuição de sementes de sorgo granífero                                                                                                            A P
+00344 00001 00001 Distribuição de sementes: feijão phaseolus                                                                                                             A P
+00345 00001 00001 Distribuição de sementes: feijão vigna                                                                                                                 A P
+00346 00001 00001 Distribuição de sementes: mamona                                                                                                                       A P
+00347 00001 00001 Distribuição de sementes: milho                                                                                                                        A P
+00348 00001 00001 Distribuição de sementes: sorgo forrageiro                                                                                                             A P
+00357 00001 00001 Distribuição de sementes: algodão herbáceo                                                                                                             A P
+00358 00002 00003 Consórcios: Cultivo de Milho X Feijão (Fundação da lavoura)                                                                                            A P
+00359 00002 00003 Cultivo de Feijão Phaseolus (Fundação da lavoura)                                                                                                      A P
+00360 00002 00003 Cultivo de Algodão Herbáceo (Fundação da lavoura)                                                                                                      A P
+00361 00002 00003 Cultivo de Sorgo Forrageiro (Fundação da lavoura)                                                                                                      A P
+00362 00004 00003 Área total assistida                                                                                                                                   A P
+00363 00011 00003 Área total assistida                                                                                                                                   A P
+00365 00002 00003 Cultivo de Feijão Vigna (Fundação da lavoura)                                                                                                          A P
+00366 00001 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00367 00002 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00368 00013 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00369 00032 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00370 00031 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00372 00002 00003 Consórcios: Cultivo de Milho X Feijão Phaseolus (Fundação da lavoura)                                                                                  A P
+00373 00002 00003 Consórcios: Cultivo de Milho X Feijão Vigna (Fundação Da lavoura)                                                                                      A P
+00374 00002 00003 Cultivo de Milho (Fundação da lavoura)                                                                                                                 A P
+00375 00007 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00378 00010 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00379 00011 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00380 00012 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00381 00014 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00382 00015 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00383 00016 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00385 00027 00003 Cultivo da Macaxeira: Fundação de lavoura                                                                                                              A P
+00386 00027 00003 Cultivo do Inhame: Fundação da lavoura                                                                                                                 A P
+00387 00027 00003 Cultivo da Batata-doce: Fundação da lavoura                                                                                                            A A
+00389 00038 00004 Realização de Planejamento Participativo                                                                                                               A P
+00390 00038 00004 Elaboração de Diagnóstico da Unidade de Produção Familiar                                                                                              A P
+00391 00038 00004 Visita Técnica a Unidade de Produção Familiar                                                                                                          A P
+00392 00038 00004 Encontro de Avaliação Final                                                                                                                            A P
+00393 00038 00004 Intercâmbio entre Agricultores Familiares                                                                                                              A P
+00394 00038 00004 Estudos de Viabilidade Economica da Produção Familiar                                                                                                  A P
+00395 00038 00004 Projetos de Estruturação das Unidades Produtivas e Sociais Familiares                                                                                  A P
+00400 00019 00007 Mercado Convencional                                                                                                                                   A P
+00402 00019 00019 PAA - Compra Direta: Volume adquirido                                                                                                                  A P
+00403 00019 00007 PAA - Formação de Estoque: Volume adquirido                                                                                                            A P
+00404 00019 00001 PAA - Doação simultânea - IPA Volume adquirido                                                                                                         A P
+00405 00019 00001 PAA - Doação Simultânea - CONAB Volume adquirido                                                                                                       A P
+00406 00038 00004 Dia de Campo                                                                                                                                           A P
+00407 00019 00001 PNAE - Volume Adquirido                                                                                                                                A P
+00408 00003 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00409 00008 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00410 00009 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00411 00017 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00412 00018 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00413 00019 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00414 00020 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00415 00021 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00416 00022 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00417 00023 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00418 00024 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00419 00025 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00420 00026 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00421 00027 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00422 00028 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00423 00029 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00424 00033 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00425 00038 00004 Total de famílias assistidas (sem repetição)                                                                                                           A S
+00430 00039 00003 abacaxi                                                                                                                                                A P
+00431 00039 00003 abóbora                                                                                                                                                A P
+00432 00039 00003 araçá                                                                                                                                                  A P
+00433 00039 00003 acerola                                                                                                                                                A P
+00434 00039 00003 algodão herbáceo                                                                                                                                       A P
+00435 00039 00003 alho                                                                                                                                                   A P
+00436 00039 00003 amendoim                                                                                                                                               A P
+00437 00039 00003 arroz                                                                                                                                                  A P
+00438 00039 00003 banana comprida                                                                                                                                        A P
+00439 00039 00003 banana pacovan                                                                                                                                         A P
+00440 00039 00003 banana prata                                                                                                                                           A P
+00441 00039 00003 batata doce                                                                                                                                            A P
+00442 00039 00003 batata inglesa                                                                                                                                         A P
+00443 00039 00003 beterraba                                                                                                                                              A P
+00444 00039 00003 cajá                                                                                                                                                   A P
+00445 00002 00003 Cafe                                                                                                                                                   A P
+00446 00039 00003 cafe                                                                                                                                                   A P
+00447 00039 00003 caju                                                                                                                                                   A P
+00448 00039 00003 cana de açucar                                                                                                                                         A P
+00449 00039 00003 cará                                                                                                                                                   A P
+00450 00039 00003 cará da costa                                                                                                                                          A P
+00451 00039 00003 capim de corte                                                                                                                                         A P
+00452 00039 00003 coco                                                                                                                                                   A P
+00453 00039 00003 fava                                                                                                                                                   A P
+00454 00039 00003 feijão phaseolus                                                                                                                                       A P
+00455 00039 00003 feijão vagem                                                                                                                                           A P
+00456 00039 00003 feijão vigna                                                                                                                                           A P
+00457 00039 00003 flor                                                                                                                                                   A P
+00458 00039 00003 folhosas                                                                                                                                               A P
+00459 00039 00003 goiaba                                                                                                                                                 A P
+00460 00039 00003 graviola                                                                                                                                               A P
+00461 00039 00003 laranja                                                                                                                                                A P
+00462 00039 00003 leguminosa - uso animal                                                                                                                                A P
+00463 00039 00003 limão                                                                                                                                                  A P
+00464 00039 00003 macaxeira                                                                                                                                              A P
+00465 00039 00003 mamão                                                                                                                                                  A P
+00466 00039 00003 mamona                                                                                                                                                 A P
+00467 00039 00003 mandioca                                                                                                                                               A P
+00468 00039 00003 manga                                                                                                                                                  A P
+00469 00039 00003 maracujá                                                                                                                                               A P
+00470 00039 00003 melancia forrageira                                                                                                                                    A P
+00471 00039 00003 milho                                                                                                                                                  A P
+00472 00039 00003 milho verde                                                                                                                                            A P
+00473 00039 00003 murici                                                                                                                                                 A P
+00474 00039 00003 outras frutícolas                                                                                                                                      A P
+00475 00039 00003 outrs olerícolas                                                                                                                                       A P
+00476 00039 00003 palma                                                                                                                                                  A P
+00477 00039 00003 palma resistente cochonilha carmim                                                                                                                     A P
+00478 00039 00003 pastagem nativa - pisoteio                                                                                                                             A P
+00479 00039 00003 pastagem artificial - pisoteio                                                                                                                         A P
+00480 00039 00003 pinha                                                                                                                                                  A P
+00481 00039 00003 pinhão                                                                                                                                                 A P
+00482 00039 00003 sorgo forrageiro                                                                                                                                       A P
+00483 00039 00003 sorgo granífero                                                                                                                                        A P
+00484 00039 00003 umbu                                                                                                                                                   A P
+00485 00039 00003 urucum                                                                                                                                                 A P
+00486 00039 00003 mamonaxfeijão vigna                                                                                                                                    A P
+00487 00039 00003 mandiocaxmilhoxfeijão vigna                                                                                                                            A P
+00488 00039 00003 milhoxfeijão phaseolus                                                                                                                                 A P
+00489 00039 00003 milhoxfeijão vigna                                                                                                                                     A P
+00490 00039 00003 total área sequeiro                                                                                                                                    A P
+00491 00039 00004 total agricultor sem repetição                                                                                                                         A P
+00492 00040 00003 abacaxi                                                                                                                                                A P
+00493 00040 00003 abóbora                                                                                                                                                A P
+00494 00040 00003 acerola                                                                                                                                                A P
+00495 00040 00003 algodão herbáceo                                                                                                                                       A P
+00496 00040 00003 alho                                                                                                                                                   A P
+00497 00040 00003 amendoim                                                                                                                                               A P
+00498 00040 00003 arroz                                                                                                                                                  A P
+00499 00040 00003 banana comprida                                                                                                                                        A P
+00500 00040 00003 banana pacovan                                                                                                                                         A P
+00501 00040 00003 banana prata                                                                                                                                           A P
+00502 00040 00003 batata doce                                                                                                                                            A P
+00503 00040 00003 batata ingleza                                                                                                                                         A P
+00504 00040 00003 beterraba                                                                                                                                              A P
+00505 00040 00003 beterraba                                                                                                                                              A P
+00506 00040 00003 café                                                                                                                                                   A P
+00507 00040 00003 cajá                                                                                                                                                   A P
+00508 00040 00003 caju                                                                                                                                                   A P
+00509 00040 00003 caju anão                                                                                                                                              A P
+00510 00040 00003 cana de açucar                                                                                                                                         A P
+00511 00040 00003 capim de corte                                                                                                                                         A P
+00512 00040 00003 cará                                                                                                                                                   A P
+00513 00040 00003 cará da costa                                                                                                                                          A P
+00514 00040 00003 cebola                                                                                                                                                 A P
+00515 00040 00003 cenoura                                                                                                                                                A P
+00516 00040 00003 chuchu                                                                                                                                                 A P
+00517 00040 00003 coco                                                                                                                                                   A P
+00518 00040 00003 erva doce                                                                                                                                              A P
+00519 00040 00003 fava                                                                                                                                                   A P
+00520 00040 00003 feijão plaseolus                                                                                                                                       A P
+00521 00040 00003 feijão vagem                                                                                                                                           A P
+00522 00040 00003 feijão vigna                                                                                                                                           A P
+00523 00040 00003 flor                                                                                                                                                   A P
+00524 00040 00003 folhosas                                                                                                                                               A P
+00525 00040 00003 goiaba                                                                                                                                                 A P
+00526 00040 00003 graviola                                                                                                                                               A P
+00527 00040 00003 laranja                                                                                                                                                A P
+00528 00040 00003 limão                                                                                                                                                  A P
+00529 00040 00003 macaxeira                                                                                                                                              A P
+00530 00040 00003 mamão                                                                                                                                                  A P
+00531 00040 00003 manga                                                                                                                                                  A P
+00532 00040 00003 maracujá                                                                                                                                               A P
+00533 00040 00003 melância                                                                                                                                               A P
+00534 00040 00003 melão                                                                                                                                                  A P
+00535 00040 00003 morango                                                                                                                                                A P
+00536 00040 00003 milho                                                                                                                                                  A P
+00537 00040 00003 milho verde                                                                                                                                            A P
+00538 00040 00003 outras frutícolas                                                                                                                                      A P
+00539 00040 00003 outras olerícolas                                                                                                                                      A P
+00540 00040 00003 palma resistente cochonilha do carmim                                                                                                                  A P
+00541 00040 00003 pastagem nativa - pisoteio                                                                                                                             A P
+00542 00040 00003 pastagem artificial - pisoteio                                                                                                                         A P
+00543 00040 00003 pepino                                                                                                                                                 A P
+00544 00040 00003 pimentão                                                                                                                                               A P
+00545 00040 00003 pinha                                                                                                                                                  A P
+00546 00040 00003 quiabo                                                                                                                                                 A P
+00547 00040 00003 repolho                                                                                                                                                A P
+00548 00040 00003 tomate industrial                                                                                                                                      A P
+00549 00040 00003 tomate de mesa                                                                                                                                         A P
+00550 00040 00003 uva                                                                                                                                                    A P
+00551 00040 00003 total àrea irrigada                                                                                                                                    A P
+00552 00040 00004 total agricultor sem repetição                                                                                                                         A P
+00553 00041 00004 sistema pais                                                                                                                                           A P
+00554 00041 00003 fruticultura orgânica                                                                                                                                  A P
+00555 00041 00003 olericultura orgânica                                                                                                                                  A P
+00556 00041 00003 algodão orgânico                                                                                                                                       A P
+00557 00041 00003 raízes e tubérculos orgânico                                                                                                                           A P
+00559 00041 00004 apicultura - colméias apis                                                                                                                             A P
+00560 00041 00004 total agricultor sem repetição                                                                                                                         A P
+00561 00042 00006 manejo adequado do  rebanho                                                                                                                            A P
+00562 00042 00006 introdução de matriz                                                                                                                                   A P
+00563 00042 00006 introdução de reprodutor                                                                                                                               A P
+00564 00042 00004 total unidade animal - ua                                                                                                                              A P
+00565 00042 00019 produção de silagem                                                                                                                                    A P
+00566 00042 00019 produção de feno                                                                                                                                       A P
+00567 00042 00006 total do rebanho                                                                                                                                       A P
+00568 00042 00004 total agricultor sem repetição                                                                                                                         A P
+00569 00043 00006 manejo adequado do rebanho                                                                                                                             A P
+00570 00043 00006 introdução de matriz                                                                                                                                   A P
+00571 00043 00006 introdução reprodutor                                                                                                                                  A P
+00572 00043 00004 total unidade animal - ua                                                                                                                              A P
+00573 00043 00019 produção de silagem                                                                                                                                    A P
+00574 00043 00019 produção de feno                                                                                                                                       A P
+00575 00043 00006 total do rebanho                                                                                                                                       A P
+00576 00043 00004 total agricultor sem repetição                                                                                                                         A P
+00577 00044 00006 manejo adequado do rebanho                                                                                                                             A P
+00578 00044 00006 introdução matriz                                                                                                                                      A P
+00579 00044 00006 introdução reprodutor                                                                                                                                  A P
+00580 00044 00019 produção de silagem                                                                                                                                    A P
+00581 00044 00019 produção de feno                                                                                                                                       A P
+00582 00044 00006 total do rebanho                                                                                                                                       A P
+00583 00044 00004 total  agricultor sem repetição                                                                                                                        A P
+00584 00045 00006 manejo adequado do rebanho                                                                                                                             A P
+00585 00045 00006 introdução matriz                                                                                                                                      A P
+00586 00045 00006 introdução reprodutor                                                                                                                                  A P
+00587 00045 00019 produção de silagem                                                                                                                                    A P
+00588 00045 00019 produção de feno                                                                                                                                       A P
+00589 00045 00006 total do rebanho                                                                                                                                       A P
+00590 00045 00004 total agricultor sem repetição                                                                                                                         A P
+00591 00046 00006 manejo adequado do rebanho                                                                                                                             A P
+00592 00046 00006 introdução  matriz                                                                                                                                     A P
+00593 00046 00006 introdução reprodutor                                                                                                                                  A P
+00594 00046 00019 produção de silagem                                                                                                                                    A P
+00595 00046 00019 produção de feno                                                                                                                                       A P
+00596 00046 00006 total do rebanho                                                                                                                                       A P
+00597 00046 00004 total agricultor sem repetição                                                                                                                         A P
+00598 00047 00006 galinha capoeira - introdução matriz                                                                                                                   A P
+00599 00047 00006 galinha capoeira - introdução reprodutor                                                                                                               A P
+00600 00047 00006 galinha capoeira - manejo adequado                                                                                                                     A P
+00601 00047 00006 galinha capoeira - total de cabeças                                                                                                                    A P
+00602 00047 00004 galinha capoeira - total agricultor                                                                                                                    A P
+00603 00047 00004 apicultura - colméias introduzidas                                                                                                                     A P
+00604 00047 00004 apicultura - total de colméias                                                                                                                         A P
+00605 00047 00004 apicultura - totalagricultor                                                                                                                           A P
+00606 00047 00004 camarão - tanque de rede                                                                                                                               A P
+00607 00047 00004 camarão - viveiro                                                                                                                                      A P
+00608 00047 00004 camarão - total agricultor                                                                                                                             A P
+00609 00047 00004 peixamento - quantidade alevinos                                                                                                                       A P
+00610 00047 00004 peixamento - açude/barreiro                                                                                                                            A P
+00611 00047 00004 peixamento - tanque de rede                                                                                                                            A P
+00612 00047 00004 peixamento - total agricultor                                                                                                                          A P
+00613 00047 00006 suinocultura - manejo adequado                                                                                                                         A P
+00614 00048 00003 conservação do solo                                                                                                                                    A P
+00615 00048 00003 manejo sustentável da caatinga                                                                                                                         A P
+00616 00048 00003 reflorestamento                                                                                                                                        A P
+00617 00048 00003 irrigação - aspersão                                                                                                                                   A P
+00618 00048 00003 irrigação - microaspersão                                                                                                                              A P
+00619 00048 00003 irrigação - gotejamento                                                                                                                                A P
+00620 00048 00003 irrigação - inundação                                                                                                                                  A P
+00621 00048 00004 horta familiar                                                                                                                                         A P
+00622 00048 00004 horta comunitária                                                                                                                                      A P
+00623 00048 00004 horta medicinal                                                                                                                                        A P
+00624 00048 00004 laboratório fitoterápico                                                                                                                               A P
+00625 00048 00004 assentamento - ITERPE - fundiário                                                                                                                      A P
+00626 00048 00004 assentamento - ITERPE - cédula da terra                                                                                                                A P
+00627 00048 00004 assentamento - ITERPE - crédito fundiário                                                                                                              A P
+00628 00048 00004 artesanato - unidades assistidas                                                                                                                       A P
+00629 00048 00004 artesanato - unidades implantadas no ano                                                                                                               A P
+00630 00048 00004 agroindústria - unidades assistidas                                                                                                                    A P
+00631 00048 00004 agroindústria - unidades implantadas no ano                                                                                                            A P
+00632 00049 00004 visita                                                                                                                                                 A P
+00633 00049 00004 reunião                                                                                                                                                A P
+00634 00049 00004 treinamento                                                                                                                                            A P
+00635 00049 00004 curso                                                                                                                                                  A P
+00636 00049 00004 oficina                                                                                                                                                A P
+00637 00049 00004 dia de campo                                                                                                                                           A P
+00638 00049 00004 dia especial                                                                                                                                           A P
+00639 00049 00004 excursão                                                                                                                                               A P
+00640 00049 00004 seminário                                                                                                                                              A P
+00641 00049 00004 unidade de demonstração/referência                                                                                                                     A P
+00642 00049 00004 intercâmbio                                                                                                                                            A P
+00643 00049 00004 unidade de teste e demonstração - UTD                                                                                                                  A P
+00644 00041 00004 apicultura-colméia meliponas                                                                                                                           A P
+00645 00056 00004 feira de produtos orgânicos organizada pelo Ipa                                                                                                        A P
+00646 00056 00004 feiras de produtos organizadas pelo Ipa                                                                                                                A P
+00647 00056 00004 agricultores inseridos nas feiras                                                                                                                      A P

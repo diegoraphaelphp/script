@@ -1,0 +1,5 @@
+00302 00120 Virginia de Souza Pereira                                                                            virginia.souza                                     25116987485e325032742a2fe379e144 I
+00581 00120 Maria Elizabete S. C. Menezes                                                                        maria.elizabete                                    e10adc3949ba59abbe56e057f20f883e A
+00632 00120 Fabrício Bezerra Pereira                                                                             fabricio.pereira                                   6b0234176009439136c20a6473d5e067 A
+00692 00120 Valdemiro Batista R. de Lemos                                                                        valdemiro.lemos                                    e10adc3949ba59abbe56e057f20f883e I
+01074 00120 Severino Ramos Farias                                                                                severino.farias                                    e10adc3949ba59abbe56e057f20f883e A
